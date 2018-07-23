@@ -16,7 +16,7 @@
       },
       "Question2" : {
         "correctOption" : [
-            "option4"
+            "option4",
         ],
         "options" : {
             "option1" : "XML",
@@ -70,7 +70,7 @@
       },
       "Question6" : {
         "correctOption" : [
-            "option1"
+            "option1",
         ],
         "options" : {
             "option1" : "Single root DOM node",
